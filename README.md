@@ -1,5 +1,5 @@
 🌐 vivkptl.github.io
-Welcome to my personal portfolio website — vivkptl.github.io!
+Welcome to my personal portfolio website — https://vivkptl.github.io !
 
 This site is a showcase of my projects, skills, and passion for technology.
 It’s built to introduce myself, display my work, and make it easier to connect with future collaborators and employers.
