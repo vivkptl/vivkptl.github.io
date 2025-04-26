@@ -41,5 +41,5 @@ GitHub | https://github.com/vivkptl
 Email | vivekpatil6338@gmail.com
 
 🚀 How to View
-Visit: vivkptl.github.io
+Visit: https://vivkptl.github.io/
 
